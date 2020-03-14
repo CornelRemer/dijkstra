@@ -1,0 +1,4 @@
+.vscode/settings.json
+dumped_graphs/*
+calculated_images/*
+__pycache__/*
