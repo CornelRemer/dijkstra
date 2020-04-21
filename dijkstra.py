@@ -199,7 +199,7 @@ class Dijkstra:
         """Calculates the shortest route from start node to every node
 
         CAUTION:
-            A large number of nodes can cause a significant  amount of time to calculat!
+            A large number of nodes can cause a significant  amount of time to calculate!
 
         Args:
             start_node (obj): Node object from which the distance

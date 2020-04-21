@@ -102,7 +102,3 @@ route = d.get_shortest_route_to(destination)
 # Create image with colorized route
 img_route = colorize_route(img, route)
 img_route.show()
-
-
-
-
